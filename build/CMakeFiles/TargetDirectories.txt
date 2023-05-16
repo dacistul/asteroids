@@ -1,0 +1,7 @@
+C:/UPB - FILS/First Semester/Advanced Computer Graphics/Proiect/build/CMakeFiles/stefan-gl.dir
+C:/UPB - FILS/First Semester/Advanced Computer Graphics/Proiect/build/CMakeFiles/edit_cache.dir
+C:/UPB - FILS/First Semester/Advanced Computer Graphics/Proiect/build/CMakeFiles/rebuild_cache.dir
+C:/UPB - FILS/First Semester/Advanced Computer Graphics/Proiect/build/CMakeFiles/list_install_components.dir
+C:/UPB - FILS/First Semester/Advanced Computer Graphics/Proiect/build/CMakeFiles/install.dir
+C:/UPB - FILS/First Semester/Advanced Computer Graphics/Proiect/build/CMakeFiles/install/local.dir
+C:/UPB - FILS/First Semester/Advanced Computer Graphics/Proiect/build/CMakeFiles/install/strip.dir

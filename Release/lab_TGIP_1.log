@@ -1,0 +1,39 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  asteroid.cpp
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\physics_object.h(10,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\physics_object.h(10,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\projectile.h(26,5): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\main.cpp(114,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\main.cpp(193,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\main.cpp(199,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\main.cpp(215,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  physics_object.cpp
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\physics_object.h(10,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  projectile.cpp
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\physics_object.h(10,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\projectile.h(26,5): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\projectile.cpp(22,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  rendered_object.cpp
+  collisions.cpp
+  ship.cpp
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\physics_object.h(10,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\projectile.h(26,5): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\ship.cpp(17,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1120.
+main.obj : error LNK2001: unresolved external symbol _glfwSwapBuffers
+main.obj : error LNK2001: unresolved external symbol _glfwSetFramebufferSizeCallback
+main.obj : error LNK2001: unresolved external symbol _glfwSwapInterval
+main.obj : error LNK2001: unresolved external symbol _glfwGetKey
+main.obj : error LNK2001: unresolved external symbol _glfwGetMouseButton
+main.obj : error LNK2001: unresolved external symbol _glfwTerminate
+main.obj : error LNK2001: unresolved external symbol _glfwSetMouseButtonCallback
+main.obj : error LNK2001: unresolved external symbol _glfwPollEvents
+main.obj : error LNK2001: unresolved external symbol _glfwInit
+main.obj : error LNK2001: unresolved external symbol _glfwSetKeyCallback
+main.obj : error LNK2001: unresolved external symbol _glfwCreateWindow
+main.obj : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+main.obj : error LNK2001: unresolved external symbol _glfwSetCursorPosCallback
+main.obj : error LNK2001: unresolved external symbol _glfwWindowShouldClose
+C:\UPB - FILS\First Semester\Advanced Computer Graphics\Proiect\Release\ACG_Project_Ex1.exe : fatal error LNK1120: 14 unresolved externals
